@@ -2,7 +2,7 @@
 
 A modern, responsive restaurant website built with pure HTML5, CSS3, and vanilla JavaScript.
 
-**Live Demo:** [zaika-restaurant.netlify.app](https://zaika-restaurant.netlify.app)
+**Live Demo:** [zaika-faisalabad.netlify.app](https://zaika-faisalabad.netlify.app)
 
 ## Features
 - Fully mobile-responsive
