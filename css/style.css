@@ -305,6 +305,7 @@ p {
   transform: translateX(100%);
   transition: transform var(--transition-base);
   box-shadow: var(--shadow-xl);
+  z-index: 1000;
 }
 
 .navbar__checkbox:checked ~ .navbar__menu {
