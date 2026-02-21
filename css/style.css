@@ -550,6 +550,7 @@ p {
   font-family: var(--font-heading);
   font-size: var(--fs-xl);
   font-weight: var(--fw-bold);
+  color: var(--color-accent);
   margin-bottom: var(--space-md);
   display: flex;
   align-items: center;
@@ -1370,5 +1371,5 @@ p {
     font-size: var(--fs-xl);
   }
 
-  .gallery__grid { grid-template-columns: repeat(4, 1fr); }
+  .gallery__grid { grid-template-columns: repeat(3, 1fr); }
 }
